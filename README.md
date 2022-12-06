@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+
+-   :computer: I am working as **Lead DevOps Engineer**
+-   :monocle_face: Interested in everything **Cloud Native**
+-   :seedling: Currently learning **Golang**
+-   :heart: Open Source Software
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds.
+
 <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
 10+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
@@ -22,7 +30,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular.
 
-<!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
+ https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true 
 <p>
   <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
