@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Samallll/Samallll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
 10+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
