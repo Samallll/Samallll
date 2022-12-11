@@ -5,7 +5,7 @@ Let me give you an idea about myself!!
 - 🔭 I’m currently working as **Assistant System Engineer**
 - 🌱 I’m currently learning **Android Application Development**
 - 👯 I’m looking to collaborate on **Developing apps or dapps**
-- ⚡ Fun fact: Interested in everything with a question**How its working?**
+- ⚡ Fun fact: Interested in everything with a question **How its working?**
 
 1.3+ years experienced Assistant System Engineer who wants to be an Developer. Developing Android Apps.  Blockchain enthusiast. Specialised in Toubleshooting.
 
