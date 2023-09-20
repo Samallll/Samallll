@@ -4,10 +4,10 @@ Let me give you an idea about myself!!
 
 - 🔭 I’m currently working as an **Intern** 
 - 👯 Had an experience of 1.8+ years as an **Assistant System Engineer**
-- 🌱 I’m currently learning **Android Application Development**
-- 👯 I’m looking to collaborate on **Developing apps or dapps**
+- 🌱 I’m currently learning *Full Stack Web Development**
+- 👯 I’m looking to collaborate on **Developing Webapps**
 
-1.8+ years experienced Assistant System Engineer who wants to be an Developer. Developing Android Apps.  Blockchain enthusiast. Specialised in Toubleshooting.
+1.8+ years experienced Assistant System Engineer who wants to be an Developer. Developing Web based Apps.  Blockchain enthusiast. Specialised in Toubleshooting.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in team work and Clean Code. Always accept mistakes and mitigates the self bugs.
 
