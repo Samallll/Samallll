@@ -7,9 +7,7 @@ Let me give you an idea about myself!!
 - 🌱 I’m currently learning *Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Developing Webapps**
 
-1.8+ years experienced Assistant System Engineer who wants to be an Developer. Developing Web based Apps.  Blockchain enthusiast. Specialised in Toubleshooting.
-
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in team work and Clean Code. Always accept mistakes and mitigates the self bugs.
+Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in team work and Clean Code. Always accept mistakes and mitigates the self bugs. Currently grasping the knowledge in the field of Full Stack Development, focusing more on Spingboot-based backend solutions.
 
 ### 🛠  Technologies and tools
 
@@ -20,7 +18,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 ### 📖  What I am currently learning / improving on
 
-<img src="https://img.shields.io/badge/Android-121D33?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
+<img src="https://img.shields.io/badge/Sring boot-121D33" alt="Spring boot logo" title="Spring boot" height="25" />
 <img src="https://img.shields.io/badge/Java-121D33?logo=Oracle&logoColor=red" alt="Java logo" title="Java" height="25" />
 
 ### 👾  What I am interested in learning at some point
