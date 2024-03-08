@@ -4,7 +4,7 @@ Let me give you an idea about myself!!
 
 - 🔭 I’m currently working as an **Intern** 
 - 👯 Had an experience of 1.8+ years as an **Assistant System Engineer**
-- 🌱 I’m currently learning *Full Stack Web Development**
+- 🌱 I’m currently learning *Full Stack Web Development** - 1 year experience
 - 👯 I’m looking to collaborate on **Developing Webapps**
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in team work and Clean Code. Always accept mistakes and mitigates the self bugs. Currently grasping the knowledge in the field of Full Stack Development, focusing more on Spingboot-based backend solutions.
