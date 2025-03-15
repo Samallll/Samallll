@@ -2,10 +2,7 @@
 
 Let me give you an idea about myself!!
 
-- 🔭 I’m currently working as an **Intern** 
-- 👯 Had an experience of 1.8+ years as an **Assistant System Engineer**
-- 🌱 I’m currently learning *Full Stack Web Development** - 1 year experience
-- 👯 I’m looking to collaborate on **Developing Webapps**
+- 🔭 I’m currently working as an **Software Engineer** - 2+ years of experience.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in team work and Clean Code. Always accept mistakes and mitigates the self bugs. Currently grasping the knowledge in the field of Full Stack Development, focusing more on Spingboot-based backend solutions.
 
@@ -13,7 +10,6 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 <img src="https://img.shields.io/badge/git-121D33?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/Workspace%20One-121D33?logo=VMware&logoColor=blue" alt="Workspace One logo" title="VMware" height="25" />
-<img src="https://img.shields.io/badge/Android Studio-121D33?logo=android&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" />
 <img src="https://img.shields.io/badge/ServiceNow-121D33" alt="ServiceNow logo" title="ServiceNow" height="25" />
 
 ### 📖  What I am currently learning / improving on
